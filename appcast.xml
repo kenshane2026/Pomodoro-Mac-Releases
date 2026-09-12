@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Pomodoro</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sat, 12 Sep 2026 08:15:37 +0800</pubDate>
+            <link>https://github.com/kenshane2026/Pomodoro-Mac-Releases</link>
+            <sparkle:version>1022</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="wB6idjaucHez4FNncb5sn0PijhnY9DNd+KDbh5TB6NoZ63ae5MGQeyDUSK51AX6/l/WIt2oQxYQaEzgatsNHCQ==" sparkle:length="1329">https://kenshane2026.github.io/Pomodoro-Mac-Releases/Pomodoro-macOS-arm64-build-1022.md</sparkle:releaseNotesLink>
+            <enclosure url="https://kenshane2026.github.io/Pomodoro-Mac-Releases/Pomodoro-macOS-arm64-build-1022.zip" length="10758946" type="application/octet-stream" sparkle:edSignature="n+uzlAEH4Q3K/TDBPxsr28/92JphcHeLMb4u0nx/FPjxe4FxPwndpwMQpqZ0Pgn+uAPSMVxAP1on+NgzLRz8CQ=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: ugw/80HDUa5nXH+xzgmkX0jZYwBPXoz2cuUe/FsEmp3eewoWXeXRgJGeGBi4k1fQdbh36/SWJKWleW/evT9tBQ==
+length: 1493
+-->
