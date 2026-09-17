@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Pomodoro</title>
         <item>
             <title>1.1</title>
-            <pubDate>Thu, 17 Sep 2026 13:59:51 +0800</pubDate>
+            <pubDate>Thu, 17 Sep 2026 16:46:31 +0800</pubDate>
             <link>https://github.com/kenshane2026/Pomodoro-Mac-Releases</link>
-            <sparkle:version>1023</sparkle:version>
+            <sparkle:version>1024</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink sparkle:edSignature="s31mZiYJU88zS28tw0OL940+ybqVVpF+ueWsYtl+JOsNb+cF7E2J1lys3Cayulfve+uJ8nY9jcXSIsdcH9uUDQ==" sparkle:length="1617">https://kenshane2026.github.io/Pomodoro-Mac-Releases/Pomodoro-macOS-arm64-build-1023.md</sparkle:releaseNotesLink>
-            <enclosure url="https://kenshane2026.github.io/Pomodoro-Mac-Releases/Pomodoro-macOS-arm64-build-1023.zip" length="12263770" type="application/octet-stream" sparkle:edSignature="PqcFjzEcfjmrHWtn3a08dMmUJ+qBUU/eFqVKbf84Qt+gDevMzgP2KmrVNl8mG9VR29KeLFbu3CmI2yXFvpcxCg=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="7JgPgPGkzkp1zGQo6wrYuxdY3pP+XZtk8vDueh0UPe1v6SxS9wrUM9aVCxPST1exstHtR43sV9day/nvuuk8DA==" sparkle:length="2175">https://kenshane2026.github.io/Pomodoro-Mac-Releases/Pomodoro-macOS-arm64-build-1024.md</sparkle:releaseNotesLink>
+            <enclosure url="https://kenshane2026.github.io/Pomodoro-Mac-Releases/Pomodoro-macOS-arm64-build-1024.zip" length="12265869" type="application/octet-stream" sparkle:edSignature="9MoOeCwmYFJwYSkDx3/C5Zvmugo2+kt8Z/cXE1wuJIAi3NSTMBXc84H7f8ODF1o7rDgbR10BK2xmzveVF4NcBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: T3upRVM0L7m9O4xEUnKCU81CBBGWzMHaJtp3u1Fq6zQpsAbt6vf+2Lfe8fxxB9pi+SlvsLvdW2CSNGgHtvSjBA==
+edSignature: g7uU0ctitGJJ63ss+cvHwdyp5LAmSrNbRfrkGxLXGtIh3LDIGMBzIWDAANi+D/dEVF9IN+MZ4a5h/3/qvRg3Dw==
 length: 1493
 -->

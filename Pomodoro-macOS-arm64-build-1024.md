@@ -1,7 +1,10 @@
-Pomodoro macOS 更新 #1023
+Pomodoro macOS 更新 #1024
 
 # Pomodoro 1.1
 
+- 修复设备被 Initial Baseline 覆盖业务数据后仍保留旧 Change Log、游标和第三设备基线的问题，避免 iPhone、MacBook Air、Mac mini 三设备相遇时把废弃时间线重新发送并触发红云。
+- 数据库或安全备份恢复成功后会废弃旧同步连续性，后续设备必须重新建立可信基线，不再沿用恢复前已经失效的 ACK 与 Cursor。
+- 同步完成前重新核对冲突版本，避免界面仍显示已经自动消解的冲突；清理由设备本地打开次数造成的 Resource 伪冲突。
 - 修复 Mac 更新构建号可能低于已安装版本的问题；已安装 build 1022 的 Mac mini 将能正常获取后续更新。
 - 公开 Sparkle 更新分支改为保留发布历史，防止后续发布丢失已使用的构建号。
 - 新增 Inbox 高频快捷键：Mac 和外接键盘使用 `⌘⇧I`；iPhone Inbox 现在也可下拉退出，并继续保留“完成”按钮。
