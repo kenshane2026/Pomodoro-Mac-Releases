@@ -1,4 +1,4 @@
-Pomodoro macOS 更新 #1024
+Pomodoro macOS 更新 #1025
 
 # Pomodoro 1.1
 
