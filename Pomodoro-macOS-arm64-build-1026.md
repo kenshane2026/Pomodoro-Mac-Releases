@@ -1,7 +1,12 @@
-Pomodoro macOS 更新 #1025
+Pomodoro macOS 更新 #1026
 
 # Pomodoro 1.1
 
+- Task 现已成为完整行动实体：新增统一详情页、日期与时间、结构化提醒、强提醒、重复与农历重复、地点提醒、旗标、自然语言录入和完成记录。
+- Task 的日期／时间与 Personal Time 的 Time Block 保持严格独立；Subject、Project、Goal、来源、已应用知识和 Session 上下文继续保留，且不新增 Task–Plan 关系。
+- Tasks 工作区新增旗标、逾期、今天、将来、无日期和已完成分区；Now、Subject「行」、搜索与 Global Create 统一进入同一个 Task Detail。
+- 重复 Task 完成本次时保留同一个 Task identity，并记录 occurrence 后推进下一次；公历与农历重复均由结构化规则重新计算。
+- Personal Time 继续作为 Task 唯一业务数据源；Apple 提醒事项与 AlarmKit 只作为本机系统投影，恢复备份后不会复用其他设备的系统对象标识。
 - 修复设备被 Initial Baseline 覆盖业务数据后仍保留旧 Change Log、游标和第三设备基线的问题，避免 iPhone、MacBook Air、Mac mini 三设备相遇时把废弃时间线重新发送并触发红云。
 - 数据库或安全备份恢复成功后会废弃旧同步连续性，后续设备必须重新建立可信基线，不再沿用恢复前已经失效的 ACK 与 Cursor。
 - 同步完成前重新核对冲突版本，避免界面仍显示已经自动消解的冲突；清理由设备本地打开次数造成的 Resource 伪冲突。
