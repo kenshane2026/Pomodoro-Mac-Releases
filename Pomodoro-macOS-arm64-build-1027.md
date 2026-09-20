@@ -1,7 +1,13 @@
-Pomodoro macOS 更新 #1026
+Pomodoro macOS 更新 #1027
 
 # Pomodoro 1.1
 
+- Topic 现可组织任意多个 Thinking；Thinking 可在创建后补充可空的 Title、Kind、Topic，并独立维护 Active、Paused、Closed 状态。
+- Topic Detail 保留既有 Current State、Understanding、Open Edges 与 Evolution，并新增同一 Topic 下的 Thinkings 管理区域；Subject Synthesis 继续只读取 Topic 已沉淀的认知结果。
+- Thinking 新增独立 Detail、Current State 与 Evolution；Continue Thinking 继续进入原有正式 Workspace，Context、Materials、Sources 与 Outputs 链路保持不变。
+- Thinking Library 收敛为 Status／Topic／Kind 单层分组与 Last Worked／Created 排序，保存分组、排序、折叠、选择及 Topic／Kind 顺序，搜索不会破坏工作区状态。
+- 新增可复用、可改名、可排序和安全删除的自定义 Kind；删除正在使用的 Kind 只清除关系，不删除 Thinking 或正文。
+- Topic、Thinking、Kind、Thinking cognition 与 Subject Synthesis 来源选择已纳入数据库迁移、LAN Sync、Initial Baseline、备份与恢复链路。
 - Task 现已成为完整行动实体：新增统一详情页、日期与时间、结构化提醒、强提醒、重复与农历重复、地点提醒、旗标、自然语言录入和完成记录。
 - Task 的日期／时间与 Personal Time 的 Time Block 保持严格独立；Subject、Project、Goal、来源、已应用知识和 Session 上下文继续保留，且不新增 Task–Plan 关系。
 - Tasks 工作区新增旗标、逾期、今天、将来、无日期和已完成分区；Now、Subject「行」、搜索与 Global Create 统一进入同一个 Task Detail。

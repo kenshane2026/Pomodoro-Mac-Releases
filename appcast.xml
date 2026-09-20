@@ -5,17 +5,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Pomodoro</title>
         <item>
             <title>1.1</title>
-            <pubDate>Sun, 20 Sep 2026 10:21:55 +0800</pubDate>
+            <pubDate>Sun, 20 Sep 2026 11:59:18 +0800</pubDate>
             <link>https://github.com/kenshane2026/Pomodoro-Mac-Releases</link>
-            <sparkle:version>1026</sparkle:version>
+            <sparkle:version>1027</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink sparkle:edSignature="TOVNGE/tnJkIs+82QlcmXiP6608PXsixblVSSghfSt24c7lR3fuPp9bhttsJDDwW0Rqqr+wVdzUtNppwvbWfBg==" sparkle:length="3092">https://kenshane2026.github.io/Pomodoro-Mac-Releases/Pomodoro-macOS-arm64-build-1026.md</sparkle:releaseNotesLink>
-            <enclosure url="https://kenshane2026.github.io/Pomodoro-Mac-Releases/Pomodoro-macOS-arm64-build-1026.zip" length="13239257" type="application/octet-stream" sparkle:edSignature="j7IwCmEU9SqudbkWy3MFL0gNFQVlkhqsL33bpOh2BggbNrqZeyRIv1s02DI5HYMy2RIJpCxr6TlT3jPeHePwDQ=="></enclosure>
+            <sparkle:releaseNotesLink sparkle:edSignature="9JEkP8C4zf5StskW/mEUu18DSN5M0rWWTohk/mXCRmfcnyl43JUVclC52AVp1MqXSLJuBtOc16DGgfmYlug5CA==" sparkle:length="4157">https://kenshane2026.github.io/Pomodoro-Mac-Releases/Pomodoro-macOS-arm64-build-1027.md</sparkle:releaseNotesLink>
+            <enclosure url="https://kenshane2026.github.io/Pomodoro-Mac-Releases/Pomodoro-macOS-arm64-build-1027.zip" length="13459385" type="application/octet-stream" sparkle:edSignature="4qPt3yO0irYiDf3hX9olFQq41NmjqmTG4YEg9og5q0RrPLj0rsu+6r5HkftNQODwAtug/ZqP7DHRK+zhzAEdDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ZvmyekYWZsGR6LkXgAp2BpR1wQ+pi61039Eblr3MctHAdsblP/HghiBXCpTZj9qIvnZozLvwV56bA0tT8EQJBg==
+edSignature: Aure+i5Pt67EM7W+CDDw4JbX7dwIRGyIR2765ScKK1kDAXHKBrLl6IFDX6I3EPSzQlhBcsibNOHO6OA4BRI/BQ==
 length: 1493
 -->
